@@ -1,7 +1,3 @@
 class Post
-  attr_accessor :title
-
-  def author
-    @author = author
-  end
+  attr_accessor :title, :author
 end
